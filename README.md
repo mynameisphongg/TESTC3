@@ -10,7 +10,7 @@ Lê Như Tâm - mssv:2180605971
 
 My name is Phong, một Lập trình viên Web và Đam mê mã nguồn mở.
 
-![Profile Picture](https://www.facebook.com/photo/?fbid=1485887128842822&set=a.105945426837006)
+![Profile Picture]((https://www.facebook.com/photo/?fbid=1485887128842822&set=a.105945426837006))
 
 ## Về tôi
 
